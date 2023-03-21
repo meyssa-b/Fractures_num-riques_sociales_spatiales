@@ -1,4 +1,4 @@
-# Fractures_num-riques_sociales_spatiales
+# Fractures numériques, sociales et spatiales
 
 
 Selon une étude de l’INSEE, la région Centre-Val de Loire est l’une des régions ayant connu l’une des plus fortes extensions de ses aires périurbaines entre la fin du XXème siècle et le début des années 2000. Demeurant toutefois relativement rural, il s’agit d’un territoire à la situation ambigüe, bordé par l’Ile de France au Nord-Est et par des régions bien moins urbanisées au Sud. Aussi, nous avons décidé de nous intéresser à cette zone géographique en potentielle transition. 
