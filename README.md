@@ -24,5 +24,5 @@ Pour mener à bien cette étude, nous nous sommes servis de neuf jeux de donnée
 ➢CSP_Emploi (2017) : Ce jeu de données présente la répartition des catégories socio-professionnelles des habitants de chaque commune du Centre-Val de Loire. Une ligne corresponde à une commune. 
 Aussi, nous avons entrepris de réaliser cette étude en deux temps. En premier lieu, ayant une bonne connaissance de la manipulation de données avec le langage R, nous avons décidé de nettoyer et joindre regrouper nos fichiers avec le logiciel Rstudio. Une fois modifiés, nous importons alors nos fichiers « propres » sur l’outil QGIS afin de réaliser des cartes et de procéder à une analyse spatiale des données. Par ailleurs, nous avons procédé à une analyse statistique de nos données en langage Python, pour des raisons d’optimisation.
 
-Les étapes de notre approche méthodologique, le rapport d’analyse, les données ainsi que les scripts r et python sont consultables au sein du repository. 
+Les étapes de notre approche méthodologique, le rapport d’analyse ainsi que les scripts r et python sont consultables au sein du repository. 
 
